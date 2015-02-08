@@ -1,0 +1,9 @@
+This repository contains the MPIR library compiled for Windows
+in a few configurations:
+
+- Visual Studio 2008 (MSVCR90.DLL runtime), 32 bits
+- Visual Studio 2008 (MSVCR90.DLL runtime), 64 bits
+- Visual Studio 2010 (MSVCR100.DLL runtime), 32 bits
+- Visual Studio 2010 (MSVCR100.DLL runtime), 64 bits
+
+The source code can be downloaded from the MPIR homepage (http://mpir.org).
