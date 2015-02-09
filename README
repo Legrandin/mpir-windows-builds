@@ -6,4 +6,8 @@ in a few configurations:
 - Visual Studio 2010 (MSVCR100.DLL runtime), 32 bits
 - Visual Studio 2010 (MSVCR100.DLL runtime), 64 bits
 
-The source code can be downloaded from the MPIR homepage (http://mpir.org).
+Yasm 1.3.0 (from http://yasm.tortall.net) was used to compile the assembly
+files. For the 32 bit builds, the MMX and SSE2 extensions are used.
+
+The library source code can be downloaded from the MPIR homepage
+(http://mpir.org). The library is licensed under LGPLv3.
