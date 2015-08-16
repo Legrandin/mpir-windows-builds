@@ -5,8 +5,8 @@ in a few configurations:
 - Visual Studio 2008 (MSVCR90.DLL runtime), 64 bits
 - Visual Studio 2010 (MSVCR100.DLL runtime), 32 bits
 - Visual Studio 2010 (MSVCR100.DLL runtime), 64 bits
-- Visual Studio 2015 (MSVCR140.DLL runtime), 32 bits
-- Visual Studio 2015 (MSVCR140.DLL runtime), 64 bits
+- Visual Studio 2015 (VCRUNTIME140.DLL runtime), 32 bits
+- Visual Studio 2015 (VCRUNTIME140.DLL runtime), 64 bits
 
 Yasm 1.3.0 (from http://yasm.tortall.net) was used to compile the assembly
 files. For the 32 bit builds, the MMX and SSE2 extensions are used.
